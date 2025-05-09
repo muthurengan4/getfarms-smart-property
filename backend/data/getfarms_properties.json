@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Premium Mango Farm - Coimbatore",
+    "location": "Coimbatore",
+    "price": 2500000,
+    "property_type": "Land",
+    "image": "/images/mango1.jpg",
+    "description": "5-acre mango orchard with drip irrigation and organic certification."
+  },
+  {
+    "id": 2,
+    "title": "Smart Mango Plantation - Hosur",
+    "location": "Hosur",
+    "price": 1800000,
+    "property_type": "Land",
+    "image": "/images/mango2.jpg",
+    "description": "IoT-enabled mango farm with high-yield varieties."
+  },
+  {
+    "id": 3,
+    "title": "Eco Mango Farmhouse - Erode",
+    "location": "Erode",
+    "price": 3200000,
+    "property_type": "House",
+    "image": "/images/mango3.jpg",
+    "description": "Farmhouse with 3 acres of mango trees and a small irrigation pond."
+  }
+]
